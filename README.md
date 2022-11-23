@@ -13,13 +13,13 @@
 
 2. Start server via command `python wsgi.py`
 
+3. Sample API is running on `localhost:5000`
+
 ## GET Routes
 
 | resource                | description                                                                 |
 | :---------------------- | :-------------------------------------------------------------------------- |
 | `/api/pokemon/top-five` | returns JSON object with `top_five` pokemon and `team_base_happiness` stats |
-
-3. Sample API is running on `localhost:5000`
 
 ## Tests
 
